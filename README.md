@@ -11,8 +11,8 @@
 
 ## [Mindcraft Stories](https://mindcraftstories.ro/author/radu-mihai/)
 
-- [Ce se intampla cu vinul romanesc in contextul schimbarilor climatice?](https://mindcraftstories.ro/mediu/ce-se-intampla-cu-vinul-romanesc-in-contextul-schimbarilor-climatice/)
-
+- [Ce se intampla cu vinul romanesc in contextul schimbarilor climatice?](https://mindcraftstories.ro/mediu/ce-se-intampla-cu-vinul-romanesc-in-contextul-schimbarilor-climatice/) -> An article showcasing the quality changes of Romanian wine in the context of climate change
+  
 ## Eurosport Romania
 
 - [SuperLiga Analysis](http://tinyurl.com/AnalizaMercatoEurosport) -> - A series of articles providing detailed coverage of the Romanian winter transfer period in the 2023/2024 season
